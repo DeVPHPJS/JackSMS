@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "DZWx-tfoGtFzCXi4QexQN"
+uri = "file://BACKEND_STRUCTURE.md"
+type = "text"
+title = "التوثيق الفني الشامل — Express SMS"
